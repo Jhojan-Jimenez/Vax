@@ -1,5 +1,5 @@
 // 1. Cargar el JSON (puede ser una importación o fetch si estás en el navegador)
-import recomendaciones from "./recomendaciones_vacunas.json";
+import recomendaciones from "../data/recomendaciones_vacunas.json";
 import { edadATotalMeses, obtenerEtiquetaEdad } from "../utils/edad";
 
 /**

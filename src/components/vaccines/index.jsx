@@ -113,7 +113,7 @@ export default function Vaccines() {
       </div>
 
       {/* Modal */}
-      <VaccineModal vaccine={selectedVaccine?.nombre} onClose={handleClose} />
+      <VaccineModal vaccine={selectedVaccine} onClose={handleClose} />
     </div>
   );
 }

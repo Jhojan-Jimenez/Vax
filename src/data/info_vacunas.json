@@ -1,0 +1,1368 @@
+{
+  "0": {
+    "name": "COVID-19 Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Personas de 6 meses de edad y mayores",
+        "numDose": "1",
+        "doseInterval": "—",
+        "reinforcement": "Puede que necesiten dosis adicionales para personas con condiciones médicas o que toman medicamentos que afectan el sistema inmune.",
+        "totalDose": "1+"
+      }
+    ],
+    "recommended": [
+      "Todas las personas de 6 meses de edad y mayores.",
+      "Mujeres embarazadas.",
+      "Mujeres en período de lactancia.",
+      "Mujeres que están intentando quedar embarazadas o que podrían quedar embarazadas en el futuro."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de la vacuna contra el COVID-19 o con cualquier alergia grave y potencialmente mortal."
+    ],
+    "precautions": [
+      "Personas con miocarditis (inflamación del músculo cardíaco) o pericarditis (inflamación del revestimiento externo del corazón) deben consultarlo con su proveedor de atención médica.",
+      "Personas con síndrome inflamatorio multisistémico (MIS-C en niños y MIS-A en adultos) deben consultarlo con su proveedor de atención médica.",
+      "Personas con enfermedades moderadas o graves, incluyendo COVID-19, generalmente deben esperar a recuperarse antes de vacunarse.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse."
+    ],
+    "observations": [
+      "La vacuna contra el COVID-19 previene la enfermedad COVID-19 y ayuda a reducir su gravedad.",
+      "La COVID-19 es causada por el SARS-CoV-2 y puede ser de leve a grave, requiriendo hospitalización o incluso causando la muerte.",
+      "Los síntomas pueden aparecer de 2 a 14 días después de la exposición al virus y varían en gravedad.",
+      "Los adultos mayores y las personas con ciertas afecciones médicas subyacentes tienen mayor riesgo de enfermarse gravemente.",
+      "Algunas personas desarrollan COVID persistente, una afección crónica con síntomas que duran 3 meses o más.",
+      "Las personas con la vacunación al día tienen un menor riesgo de enfermedad grave, hospitalización y muerte por COVID-19.",
+      "La vacunación es la mejor manera de prevenir el COVID persistente.",
+      "La vacuna ayuda al cuerpo a defenderse de la enfermedad y reduce el riesgo de enfermedad grave y complicaciones.",
+      "Las vacunas contra el COVID-19 ofrecen protección adicional a las personas que ya tuvieron COVID-19.",
+      "Se ha observado miocarditis y pericarditis raramente después de la vacunación contra el COVID-19, con mayor frecuencia en adolescentes y hombres jóvenes, aunque el riesgo es bajo.",
+      "Las personas pueden desmayarse después de los procedimientos médicos, incluyendo la vacunación."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "2": {
+    "name": "Hib Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Lactantes (primera dosis a los 2 meses de edad)",
+        "numDose": "3 o 4 (dependiendo de la marca)",
+        "doseInterval": "Hasta los 12-15 meses de edad para completar la serie",
+        "reinforcement": "No",
+        "totalDose": "3 o 4"
+      },
+      {
+        "target": "Niños entre 12 meses y 5 años de edad (que no hayan sido completamente vacunados previamente)",
+        "numDose": "1 o más",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Niños mayores de 5 años y adultos con bazo dañado o extirpado (incluyendo personas con anemia falciforme, antes de la cirugía de extirpación del bazo o después de un trasplante de médula ósea)",
+        "numDose": "Varía",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Personas de 5 a 18 años con VIH",
+        "numDose": "Varía",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      }
+    ],
+    "recommended": [
+      "Lactantes y niños menores de 5 años.",
+      "Niños mayores de 5 años y adultos con el bazo dañado o extirpado, incluyendo personas con anemia falciforme.",
+      "Personas antes de una cirugía de extirpación del bazo.",
+      "Personas después de un trasplante de médula ósea.",
+      "Personas de 5 a 18 años con VIH."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica después de una dosis previa de la vacuna Hib o con cualquier alergia grave y potencialmente mortal."
+    ],
+    "precautions": [
+      "Las personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna Hib.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse."
+    ],
+    "observations": [
+      "La vacuna Hib previene la enfermedad causada por Haemophilus influenzae tipo b (Hib).",
+      "Las infecciones por Hib suelen afectar a niños menores de 5 años, pero también pueden afectar a adultos con ciertas condiciones médicas.",
+      "Las bacterias Hib pueden causar enfermedades leves (infecciones de oído, bronquitis) o graves (infecciones de la sangre, meningitis).",
+      "Antes de la vacuna, la enfermedad por Hib era la principal causa de meningitis bacteriana en niños menores de 5 años en EE. UU., lo que podía llevar a daño cerebral y sordera.",
+      "La infección por Hib también puede causar neumonía, hinchazón grave en la garganta (dificultando la respiración), infecciones en la sangre, articulaciones, huesos y el revestimiento del corazón, y puede ser mortal.",
+      "La vacuna Hib puede administrarse como vacuna independiente o como parte de una vacuna combinada."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "3": {
+    "name": "Hepatitis B Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Lactantes (primera dosis al nacer)",
+        "numDose": "2, 3 o 4",
+        "doseInterval": "Hasta los 6-18 meses de edad para completar la serie",
+        "reinforcement": "No",
+        "totalDose": "2, 3 o 4"
+      },
+      {
+        "target": "Cualquier persona de 59 años o menos que no haya sido vacunada previamente",
+        "numDose": "2, 3 o 4",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "2, 3 o 4"
+      },
+      {
+        "target": "Adultos de 60 años o más con mayor riesgo de exposición a la hepatitis B (no vacunados previamente)",
+        "numDose": "2, 3 o 4",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "2, 3 o 4"
+      },
+      {
+        "target": "Adultos de 60 años o más sin mayor riesgo (no vacunados previamente)",
+        "numDose": "2, 3 o 4",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "2, 3 o 4"
+      }
+    ],
+    "recommended": [
+      "Todos los lactantes, con la primera dosis al nacer.",
+      "Cualquier persona de 59 años o menos que no haya sido vacunada previamente.",
+      "Adultos de 60 años o más con mayor riesgo de exposición a la hepatitis B.",
+      "Adultos de 60 años o más que no estén en mayor riesgo pero que no hayan sido vacunados en el pasado.",
+      "Mujeres embarazadas o en período de lactancia que no hayan sido vacunadas previamente."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de la vacuna contra la hepatitis B o con cualquier alergia grave y potencialmente mortal."
+    ],
+    "precautions": [
+      "Las personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna contra la hepatitis B.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse."
+    ],
+    "observations": [
+      "La vacuna contra la hepatitis B puede prevenir la hepatitis B, una enfermedad hepática que puede ser leve o grave y de por vida.",
+      "La hepatitis B aguda es una enfermedad a corto plazo con síntomas como fiebre, fatiga, ictericia y dolor.",
+      "La hepatitis B crónica es una enfermedad a largo plazo que puede causar daño hepático (cirrosis), cáncer de hígado y la muerte, incluso sin síntomas evidentes.",
+      "Las personas crónicamente infectadas pueden transmitir el virus de la hepatitis B a otros.",
+      "La hepatitis B se transmite a través del contacto con sangre, semen u otros fluidos corporales infectados (nacimiento, compartir objetos, contacto con heridas abiertas, relaciones sexuales, compartir agujas, exposición a instrumentos cortantes).",
+      "La mayoría de las personas vacunadas contra la hepatitis B son inmunes de por vida.",
+      "La dosis de nacimiento es crucial para prevenir enfermedades a largo plazo en lactantes y la propagación de la hepatitis B.",
+      "La vacuna contra la hepatitis B puede administrarse como vacuna independiente o como parte de una vacuna combinada.",
+      "El dolor en el lugar de la inyección, fiebre, dolor de cabeza y fatiga pueden ocurrir después de la vacunación contra la hepatitis B."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "4": {
+    "name": "DTaP Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Niños menores de 7 años",
+        "numDose": "5",
+        "doseInterval": "2 meses, 4 meses, 6 meses, 15-18 meses, 4-6 años",
+        "reinforcement": "No",
+        "totalDose": "5"
+      }
+    ],
+    "recommended": [
+      "Niños de 2 meses de edad.",
+      "Niños de 4 meses de edad.",
+      "Niños de 6 meses de edad.",
+      "Niños de 15 a 18 meses de edad.",
+      "Niños de 4 a 6 años de edad."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica después de una dosis previa de cualquier vacuna contra el tétanos, la difteria o la tos ferina, o con cualquier alergia grave y potencialmente mortal.",
+      "Personas que hayan tenido coma, disminución del nivel de conciencia o convulsiones prolongadas dentro de los 7 días posteriores a una dosis previa de cualquier vacuna contra la tos ferina (DTP o DTaP).",
+      "Niños mayores de 7 años (existen otras vacunas para ellos: Tdap y Td)."
+    ],
+    "precautions": [
+      "Personas con convulsiones u otros problemas del sistema nervioso deben consultar a su proveedor de atención médica.",
+      "Personas que alguna vez han tenido el Síndrome de Guillain-Barré (GBS) deben consultar a su proveedor de atención médica.",
+      "Personas que hayan tenido dolor intenso o hinchazón después de una dosis previa de cualquier vacuna contra el tétanos o la difteria deben consultar a su proveedor de atención médica.",
+      "Los niños con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna DTaP.",
+      "Los niños con enfermedades leves, como un resfriado, pueden vacunarse."
+    ],
+    "observations": [
+      "La vacuna DTaP previene la difteria, el tétanos y la tos ferina (pertussis).",
+      "La difteria y la tos ferina se contagian de persona a persona. El tétanos entra al cuerpo a través de cortes o heridas.",
+      "La difteria puede causar dificultad para respirar, insuficiencia cardíaca, parálisis o la muerte.",
+      "El tétanos provoca rigidez muscular dolorosa y puede llevar a problemas graves como la incapacidad de abrir la boca, dificultad para tragar y respirar, o la muerte.",
+      "La tos ferina ('tos convulsa') causa tos incontrolable y violenta que dificulta la respiración, la alimentación o la bebida.",
+      "La tos ferina es extremadamente grave en bebés y niños pequeños, pudiendo causar neumonía, convulsiones, daño cerebral o la muerte. En adolescentes y adultos, puede provocar pérdida de peso, incontinencia urinaria, desmayos y fracturas de costillas por la tos severa.",
+      "La vacuna DTaP puede administrarse como vacuna independiente o como parte de una vacuna combinada.",
+      "Los efectos secundarios comunes incluyen dolor o hinchazón en el lugar de la inyección, fiebre, irritabilidad, cansancio, pérdida de apetito y vómitos.",
+      "Reacciones más graves como convulsiones, llanto incesante por 3 horas o más, o fiebre alta (más de 40.5°C) ocurren con mucha menos frecuencia.",
+      "En raras ocasiones, puede haber hinchazón de todo el brazo o la pierna, especialmente en niños mayores después de la cuarta o quinta dosis."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "5": {
+    "name": "Td Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Niños de 7 años o más, adolescentes y adultos",
+        "numDose": "1",
+        "doseInterval": "Cada 10 años (refuerzo)",
+        "reinforcement": "Sí, cada 10 años o después de 5 años en caso de herida o quemadura grave o sucia.",
+        "totalDose": "Varía"
+      }
+    ],
+    "recommended": ["Niños de 7 años o más.", "Adolescentes.", "Adultos."],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de cualquier vacuna que proteja contra el tétanos o la difteria, o con cualquier alergia grave y potencialmente mortal."
+    ],
+    "precautions": [
+      "Personas que alguna vez hayan tenido el Síndrome de Guillain-Barré (GBS) deben consultar a su proveedor de atención médica.",
+      "Personas que hayan tenido dolor o hinchazón severos después de una dosis previa de cualquier vacuna que proteja contra el tétanos o la difteria deben consultar a su proveedor de atención médica.",
+      "Personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna Td.",
+      "Personas con enfermedades leves, como un resfriado, pueden vacunarse."
+    ],
+    "observations": [
+      "La vacuna Td previene el **tétanos** y la **difteria**.",
+      "El tétanos entra al cuerpo a través de cortes o heridas, mientras que la difteria se propaga de persona a persona.",
+      "El **tétanos** causa rigidez muscular dolorosa y puede provocar problemas graves como la incapacidad de abrir la boca, dificultad para tragar y respirar, o la muerte.",
+      "La **difteria** puede llevar a dificultad para respirar, insuficiencia cardíaca, parálisis o la muerte.",
+      "Td es solo para niños de 7 años o más, adolescentes y adultos.",
+      "Normalmente se administra una dosis de refuerzo cada 10 años, o cada 5 años en caso de una herida o quemadura grave o sucia.",
+      "Existe otra vacuna, llamada Tdap, que además de proteger contra el tétanos y la difteria, también protege contra la tos ferina (pertussis).",
+      "Los efectos secundarios comunes incluyen dolor, enrojecimiento o hinchazón en el lugar de la inyección, fiebre leve, dolor de cabeza, sensación de cansancio, náuseas, vómitos, diarrea o dolor de estómago.",
+      "Existe una posibilidad muy remota de que la vacuna cause una reacción alérgica grave, otra lesión grave o la muerte."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "6": {
+    "name": "Tdap Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Adolescentes (preferiblemente entre 11 y 12 años)",
+        "numDose": "1",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "1"
+      },
+      {
+        "target": "Mujeres embarazadas",
+        "numDose": "1",
+        "doseInterval": "Durante cada embarazo, preferiblemente al inicio del tercer trimestre",
+        "reinforcement": "Sí, durante cada embarazo",
+        "totalDose": "1 por embarazo"
+      },
+      {
+        "target": "Adultos que nunca han recibido Tdap",
+        "numDose": "1",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "1"
+      },
+      {
+        "target": "Adultos (refuerzo)",
+        "numDose": "1",
+        "doseInterval": "Cada 10 años, o después de 5 años en caso de herida o quemadura grave o sucia (puede ser Tdap o Td)",
+        "reinforcement": "Sí, cada 10 años o en casos específicos",
+        "totalDose": "Varía"
+      }
+    ],
+    "recommended": [
+      "Niños de 7 años o más.",
+      "Adolescentes, preferiblemente entre 11 y 12 años.",
+      "Mujeres embarazadas, durante cada embarazo (al inicio del tercer trimestre).",
+      "Adultos que nunca han recibido Tdap."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de cualquier vacuna que proteja contra el tétanos, la difteria o la tos ferina, o con cualquier alergia grave y potencialmente mortal.",
+      "Personas que hayan tenido coma, disminución del nivel de conciencia o convulsiones prolongadas dentro de los 7 días posteriores a una dosis previa de cualquier vacuna contra la tos ferina (DTP, DTaP o Tdap)."
+    ],
+    "precautions": [
+      "Personas con convulsiones u otro problema del sistema nervioso deben consultar a su proveedor de atención médica.",
+      "Personas que alguna vez hayan tenido el Síndrome de Guillain-Barré (GBS) deben consultar a su proveedor de atención médica.",
+      "Personas que hayan tenido dolor o hinchazón severos después de una dosis previa de cualquier vacuna que proteja contra el tétanos o la difteria deben consultar a su proveedor de atención médica.",
+      "Personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna Tdap.",
+      "Personas con enfermedades leves, como un resfriado, pueden vacunarse."
+    ],
+    "observations": [
+      "La vacuna Tdap previene el **tétanos**, la **difteria** y la **tos ferina (pertussis)**.",
+      "La difteria y la tos ferina se propagan de persona a persona. El tétanos entra al cuerpo a través de cortes o heridas.",
+      "El **tétanos** causa rigidez muscular dolorosa y puede llevar a problemas graves de salud, incluyendo la incapacidad de abrir la boca, dificultad para tragar y respirar, o la muerte.",
+      "La **difteria** puede causar dificultad para respirar, insuficiencia cardíaca, parálisis o la muerte.",
+      "La **tos ferina** ('tos convulsa') puede causar tos violenta e incontrolable que dificulta la respiración, la alimentación o la bebida. Es muy grave en bebés y niños pequeños, pudiendo causar neumonía, convulsiones, daño cerebral o la muerte. En adolescentes y adultos, puede causar pérdida de peso, pérdida del control de la vejiga, desmayos y fracturas de costillas por la tos severa.",
+      "La Tdap es solo para niños de 7 años o más, adolescentes y adultos.",
+      "Las mujeres embarazadas deben vacunarse en cada embarazo para proteger al recién nacido de la tos ferina, ya que los lactantes corren el mayor riesgo de complicaciones graves y potencialmente mortales por esta enfermedad.",
+      "Los efectos secundarios comunes incluyen dolor, enrojecimiento o hinchazón en el lugar de la inyección, fiebre leve, dolor de cabeza, sensación de cansancio, náuseas, vómitos, diarrea o dolor de estómago.",
+      "Existe una posibilidad muy remota de que la vacuna cause una reacción alérgica grave, otra lesión grave o la muerte."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "7": {
+    "name": "MMR Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Niños",
+        "numDose": "2",
+        "doseInterval": "Primera dosis a los 12-15 meses; Segunda dosis a los 4-6 años",
+        "reinforcement": "No",
+        "totalDose": "2"
+      },
+      {
+        "target": "Lactantes que viajarán fuera de los Estados Unidos (entre 6 y 11 meses de edad)",
+        "numDose": "1 (dosis temprana)",
+        "doseInterval": "Antes del viaje",
+        "reinforcement": "Sí, necesitan 2 dosis adicionales a las edades recomendadas para protección duradera.",
+        "totalDose": "3"
+      },
+      {
+        "target": "Niños mayores, adolescentes y adultos (no inmunes a sarampión, paperas y rubéola)",
+        "numDose": "1 o 2",
+        "doseInterval": "Según lo determine el proveedor de atención médica",
+        "reinforcement": "No",
+        "totalDose": "1 o 2"
+      },
+      {
+        "target": "Ciertas personas en situaciones de brote de paperas",
+        "numDose": "1",
+        "doseInterval": "Dosis adicional",
+        "reinforcement": "Sí",
+        "totalDose": "Varía"
+      }
+    ],
+    "recommended": [
+      "Niños a partir de los 12 meses de edad.",
+      "Lactantes de 6 a 11 meses que viajen fuera de los Estados Unidos.",
+      "Niños mayores, adolescentes y adultos que no sean inmunes al sarampión, las paperas y la rubéola.",
+      "Ciertas personas en situaciones de brotes de paperas."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica después de una dosis previa de la vacuna MMR o MMRV, o con cualquier alergia grave y potencialmente mortal.",
+      "Mujeres embarazadas o que creen que podrían estarlo.",
+      "Personas con un sistema inmunológico debilitado, o con antecedentes familiares de problemas inmunitarios hereditarios o congénitos (padres, hermanos).",
+      "Personas con problemas graves del sistema inmunológico.",
+      "Personas que hayan tenido una afección que les provoque moretones o sangrados fácilmente.",
+      "Personas que hayan recibido una transfusión de sangre o productos sanguíneos recientemente (consultar con el médico sobre el intervalo).",
+      "Personas con tuberculosis.",
+      "Personas que hayan recibido otras vacunas en las últimas 4 semanas."
+    ],
+    "precautions": [
+      "Personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna MMR.",
+      "Personas con enfermedades leves, como un resfriado, pueden vacunarse."
+    ],
+    "observations": [
+      "La vacuna MMR previene el **sarampión**, las **paperas** y la **rubéola**.",
+      "El **sarampión** causa fiebre, tos, secreción nasal, ojos rojos y llorosos, seguido de una erupción cutánea. Puede provocar convulsiones, infecciones de oído, diarrea, neumonía y, rara vez, daño cerebral o la muerte.",
+      "Las **paperas** causan fiebre, dolor de cabeza, dolores musculares, cansancio, pérdida de apetito y glándulas salivales inflamadas y sensibles. Pueden llevar a sordera, inflamación del cerebro y/o el revestimiento de la médula espinal, inflamación dolorosa de los testículos u ovarios y, muy rara vez, la muerte.",
+      "La **rubéola** causa fiebre, dolor de garganta, sarpullido, dolor de cabeza e irritación ocular. Puede provocar artritis en hasta la mitad de las mujeres adolescentes y adultas. Si una mujer embarazada contrae rubéola, puede sufrir un aborto espontáneo o el bebé puede nacer con defectos de nacimiento graves.",
+      "La mayoría de las personas vacunadas con MMR estarán protegidas de por vida.",
+      "Las vacunas y las altas tasas de vacunación han hecho que estas enfermedades sean mucho menos comunes.",
+      "La vacuna MMR puede administrarse al mismo tiempo que otras vacunas.",
+      "En niños de 12 meses a 12 años, la vacuna MMR se puede administrar junto con la vacuna contra la varicela en una sola inyección, conocida como MMRV.",
+      "Los efectos secundarios comunes incluyen dolor en el brazo o enrojecimiento en el lugar de la inyección, fiebre y una erupción leve.",
+      "En ocasiones, pueden ocurrir hinchazón de las glándulas en las mejillas o el cuello, o dolor y rigidez temporales en las articulaciones (principalmente en mujeres adolescentes o adultas).",
+      "Reacciones más graves son raras, como convulsiones (a menudo asociadas con fiebre) o trombocitopenia temporal que puede causar sangrado o hematomas inusuales.",
+      "En personas con problemas graves del sistema inmunitario, esta vacuna puede causar una infección potencialmente mortal."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas.",
+      "En niños de 12 meses a 12 años, puede administrarse junto con la vacuna contra la varicela como MMRV."
+    ]
+  },
+  "8": {
+    "name": "Varicella Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Niños",
+        "numDose": "2",
+        "doseInterval": "Primera dosis a los 12-15 meses; Segunda dosis a los 4-6 años",
+        "reinforcement": "No",
+        "totalDose": "2"
+      },
+      {
+        "target": "Niños mayores, adolescentes y adultos (que no sean inmunes a la varicela)",
+        "numDose": "2",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "2"
+      }
+    ],
+    "recommended": [
+      "Niños a partir de los 12 meses de edad.",
+      "Niños mayores, adolescentes y adultos que no sean inmunes a la varicela."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de la vacuna contra la varicela, o con cualquier alergia grave y potencialmente mortal.",
+      "Mujeres embarazadas o que creen que podrían estarlo.",
+      "Personas con un sistema inmunológico debilitado, o con antecedentes familiares de problemas inmunitarios hereditarios o congénitos (padres, hermanos).",
+      "Personas con problemas graves del sistema inmunológico.",
+      "Personas que estén tomando salicilatos (como aspirina).",
+      "Personas que hayan recibido una transfusión de sangre o productos sanguíneos recientemente (consultar con el médico sobre el intervalo).",
+      "Personas con tuberculosis.",
+      "Personas que hayan recibido otras vacunas en las últimas 4 semanas."
+    ],
+    "precautions": [
+      "Las personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna contra la varicela.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse.",
+      "Si una persona vacunada desarrolla una erupción, debe mantenerse alejada de lactantes y personas con un sistema inmunológico debilitado hasta que la erupción desaparezca, ya que el virus de la vacuna podría transmitirse."
+    ],
+    "observations": [
+      "La vacuna contra la varicela puede prevenir la **varicela**, también conocida como 'chickenpox'.",
+      "La varicela causa una erupción con picazón que generalmente dura una semana, y puede ir acompañada de fiebre, cansancio, pérdida de apetito y dolor de cabeza.",
+      "Las complicaciones de la varicela pueden incluir infecciones de la piel, neumonía, inflamación de los vasos sanguíneos, hinchazón del cerebro y/o el revestimiento de la médula espinal, e infecciones del torrente sanguíneo, huesos o articulaciones.",
+      "Algunas personas que contraen varicela desarrollan una erupción dolorosa llamada 'culebrilla' (herpes zóster) años después.",
+      "Aunque la varicela suele ser leve, puede ser grave en lactantes menores de 12 meses, adolescentes, adultos, mujeres embarazadas y personas con un sistema inmunológico debilitado.",
+      "En casos raros, la varicela puede ser mortal.",
+      "La mayoría de las personas que reciben 2 dosis de la vacuna contra la varicela estarán protegidas de por vida.",
+      "La vacuna contra la varicela puede administrarse al mismo tiempo que otras vacunas.",
+      "En niños de 12 meses a 12 años, la vacuna contra la varicela se puede administrar junto con la vacuna MMR (sarampión, paperas y rubéola) en una sola inyección, conocida como MMRV.",
+      "Los efectos secundarios comunes incluyen dolor en el brazo, enrojecimiento o erupción en el lugar de la inyección, o fiebre.",
+      "Las reacciones más graves son muy raras y pueden incluir neumonía, infección del cerebro y/o el revestimiento de la médula espinal, o convulsiones (a menudo asociadas con fiebre).",
+      "Es posible que una persona vacunada desarrolle una erupción, en cuyo caso el virus de la vacuna podría propagarse a una persona no protegida.",
+      "Es mucho menos común que las personas vacunadas contra la varicela desarrollen culebrilla años después, en comparación con quienes contraen la enfermedad de forma natural."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas.",
+      "En niños de 12 meses a 12 años, puede administrarse junto con la vacuna MMR como MMRV."
+    ]
+  },
+  "9": {
+    "name": "Recombinant Zoster (Shingles) Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Adultos de 50 años o más",
+        "numDose": "2",
+        "doseInterval": "2 a 6 meses después de la primera dosis",
+        "reinforcement": "No",
+        "totalDose": "2"
+      },
+      {
+        "target": "Adultos de 19 años o más con sistema inmunológico debilitado",
+        "numDose": "2",
+        "doseInterval": "1 a 2 meses después de la primera dosis",
+        "reinforcement": "No",
+        "totalDose": "2"
+      }
+    ],
+    "recommended": [
+      "Adultos de 50 años o más.",
+      "Adultos de 19 años o más con un sistema inmunológico debilitado debido a enfermedades o tratamientos.",
+      "Personas que han tenido culebrilla en el pasado.",
+      "Personas que han recibido la vacuna contra la varicela (chickenpox).",
+      "Personas que ya han recibido otro tipo de vacuna contra la culebrilla (la vacuna viva contra la culebrilla)."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de la vacuna recombinante contra la culebrilla, o con cualquier alergia grave y potencialmente mortal.",
+      "Personas que estén experimentando un episodio de culebrilla actualmente.",
+      "Mujeres embarazadas."
+    ],
+    "precautions": [
+      "Las personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna recombinante contra la culebrilla.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse."
+    ],
+    "observations": [
+      "La vacuna recombinante contra el zóster (culebrilla) puede prevenir la culebrilla.",
+      "La culebrilla (herpes zóster) es una erupción cutánea dolorosa con ampollas. También puede causar fiebre, dolor de cabeza, escalofríos o malestar estomacal. En raras ocasiones, puede llevar a complicaciones como neumonía, problemas auditivos, ceguera, inflamación cerebral (encefalitis) o la muerte.",
+      "El riesgo de culebrilla aumenta con la edad.",
+      "La complicación más común de la culebrilla es el dolor nervioso a largo plazo llamado neuralgia posherpética (NPH), que puede ser grave y debilitante.",
+      "El riesgo de NPH y su gravedad aumentan con la edad.",
+      "Las personas con sistemas inmunológicos debilitados tienen un mayor riesgo de contraer culebrilla y sus complicaciones.",
+      "La culebrilla es causada por el virus varicela-zóster, el mismo virus que causa la varicela (chickenpox). El virus permanece en el cuerpo después de la varicela y puede causar culebrilla más adelante.",
+      "La culebrilla no se transmite de persona a persona, pero el virus que la causa puede propagarse y provocar varicela en alguien que nunca la ha padecido o no ha sido vacunado contra ella.",
+      "La vacuna recombinante contra la culebrilla ofrece una fuerte protección contra la culebrilla y, al prevenirla, también protege contra la NPH y otras complicaciones.",
+      "La vacuna no contiene virus vivos.",
+      "Los efectos secundarios muy comunes incluyen dolor, enrojecimiento o hinchazón en el lugar de la inyección, cansancio, dolor muscular, dolor de cabeza, escalofríos, fiebre, dolor de estómago y náuseas. Estos síntomas suelen desaparecer en 2 o 3 días.",
+      "Se debe recibir la segunda dosis incluso si se experimentaron reacciones después de la primera.",
+      "El síndrome de Guillain-Barré (SGB) se ha informado muy raramente después de la vacuna recombinante contra el zóster.",
+      "Existe una posibilidad muy remota de que la vacuna cause una reacción alérgica grave, otra lesión grave o la muerte."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "10": {
+    "name": "HPV Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Adolescentes de 11 o 12 años de edad (puede administrarse a partir de los 9 años)",
+        "numDose": "2",
+        "doseInterval": "Si la primera dosis es antes de los 15 años de edad.",
+        "reinforcement": "No",
+        "totalDose": "2"
+      },
+      {
+        "target": "Personas que reciben la primera dosis a partir de los 15 años de edad",
+        "numDose": "3",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "3"
+      },
+      {
+        "target": "Personas jóvenes con ciertas condiciones de inmunocompromiso",
+        "numDose": "3",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "3"
+      },
+      {
+        "target": "Adultos de 27 a 45 años de edad",
+        "numDose": "Varía",
+        "doseInterval": "Basado en discusión con el proveedor de atención médica.",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      }
+    ],
+    "recommended": [
+      "Adolescentes de 11 o 12 años de edad (para protección antes de la exposición al virus).",
+      "Niños a partir de los 9 años de edad.",
+      "Todas las personas hasta los 26 años de edad.",
+      "Adultos de 27 a 45 años de edad, previa discusión con el proveedor de atención médica."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de la vacuna contra el VPH, o con cualquier alergia grave y potencialmente mortal.",
+      "Mujeres embarazadas (la vacuna contra el VPH no se recomienda hasta después del embarazo)."
+    ],
+    "precautions": [
+      "Las personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna contra el VPH.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse."
+    ],
+    "observations": [
+      "La vacuna contra el VPH (virus del papiloma humano) puede prevenir la infección por algunos tipos de VPH.",
+      "Las infecciones por VPH pueden causar ciertos tipos de cáncer, incluyendo: cáncer de cuello uterino, vaginal y vulvar en mujeres; cáncer de pene en hombres; cáncer anal en hombres y mujeres; y cáncer de amígdalas, base de la lengua y parte posterior de la garganta (cáncer orofaríngeo) en ambos sexos.",
+      "Las infecciones por VPH también pueden causar verrugas anogenitales.",
+      "La vacuna contra el VPH puede prevenir más del 90% de los cánceres causados por el VPH.",
+      "El VPH se transmite a través del contacto íntimo piel con piel o contacto sexual.",
+      "Las infecciones por VPH son muy comunes; casi todas las personas contraerán al menos un tipo de VPH en algún momento de sus vidas.",
+      "La mayoría de las infecciones por VPH desaparecen por sí solas en 2 años, pero a veces persisten y pueden causar cánceres más adelante.",
+      "La vacuna contra el VPH se administra de forma rutinaria a los adolescentes para asegurar la protección antes de la exposición al virus.",
+      "Los efectos secundarios comunes incluyen dolor, enrojecimiento o hinchazón en el lugar de la inyección, fiebre o dolor de cabeza.",
+      "Las personas a veces se desmayan después de procedimientos médicos, incluida la vacunación.",
+      "Existe una posibilidad muy remota de que la vacuna cause una reacción alérgica grave, otra lesión grave o la muerte."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "11": {
+    "name": "Pneumococcal Conjugate Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Lactantes y niños pequeños",
+        "numDose": "4",
+        "doseInterval": "2, 4, 6 y 12-15 meses de edad",
+        "reinforcement": "No",
+        "totalDose": "4"
+      },
+      {
+        "target": "Niños mayores y adolescentes (si no recibieron las dosis recomendadas de bebés o niños pequeños y según su edad y condiciones médicas o factores de riesgo)",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Adultos de 19 a 64 años con ciertas condiciones médicas o factores de riesgo (que no hayan recibido previamente la vacuna conjugada neumocócica)",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Adultos de 65 años o más (que no hayan recibido previamente la vacuna conjugada neumocócica)",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Algunos adultos que ya han recibido una vacuna conjugada neumocócica (PCV)",
+        "numDose": "1",
+        "doseInterval": "Dosis adicional de otra vacuna PCV",
+        "reinforcement": "Sí",
+        "totalDose": "Varía"
+      }
+    ],
+    "recommended": [
+      "Niños menores de 2 años.",
+      "Personas con ciertas condiciones médicas o factores de riesgo.",
+      "Adultos de 65 años o más.",
+      "Niños mayores y adolescentes que no recibieron las dosis recomendadas de bebés o niños pequeños.",
+      "Adultos de 19 a 64 años con ciertas condiciones médicas o factores de riesgo."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de cualquier tipo de vacuna conjugada neumocócica (PCV13, PCV15, PCV20, o PCV7 anterior), o a cualquier vacuna que contenga toxoide diftérico (por ejemplo, DTaP), o con cualquier alergia grave y potencialmente mortal."
+    ],
+    "precautions": [
+      "Las personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna conjugada neumocócica.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse.",
+      "Los niños pequeños pueden tener un mayor riesgo de convulsiones causadas por fiebre si la vacuna conjugada neumocócica se administra al mismo tiempo que la vacuna inactivada contra la influenza."
+    ],
+    "observations": [
+      "La vacuna conjugada neumocócica previene la enfermedad neumocócica, que es causada por bacterias neumocócicas.",
+      "Estas bacterias pueden causar varios tipos de enfermedades, incluyendo neumonía (una infección pulmonar, siendo una de las causas más comunes).",
+      "Además de la neumonía, las bacterias neumocócicas también pueden causar infecciones de oído, infecciones de los senos paranasales, meningitis (infección del tejido que cubre el cerebro y la médula espinal) y bacteriemia (infección de la sangre).",
+      "Cualquier persona puede contraer la enfermedad neumocócica, pero los niños menores de 2 años, las personas con ciertas afecciones médicas o factores de riesgo, y los adultos de 65 años o más tienen el mayor riesgo.",
+      "La mayoría de las infecciones neumocócicas son leves, pero algunas pueden provocar problemas a largo plazo como daño cerebral o pérdida de audición. La meningitis, la bacteriemia y la neumonía causadas por la enfermedad neumocócica pueden ser fatales.",
+      "Existen tres vacunas conjugadas neumocócicas (PCV13, PCV15 y PCV20), recomendadas para diferentes personas según la edad y el estado de salud.",
+      "Algunas personas con ciertas afecciones médicas también pueden necesitar la vacuna polisacárida neumocócica (PPSV23), que es un tipo diferente de vacuna neumocócica."
+    ],
+    "coadministration": [
+      "Se puede administrar al mismo tiempo que otras vacunas, pero los niños pequeños pueden tener un mayor riesgo de convulsiones febriles si se administra junto con la vacuna inactivada contra la influenza."
+    ]
+  },
+  "12": {
+    "name": "Pneumococcal Polysaccharide Vaccine (PPSV23)",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Adultos de 65 años o más",
+        "numDose": "1",
+        "doseInterval": "—",
+        "reinforcement": "No, a menos que ya la hayan recibido antes de los 65 años, en cuyo caso deben recibir una dosis adicional.",
+        "totalDose": "1 (o 2 si ya la recibieron antes de los 65)"
+      },
+      {
+        "target": "Cualquier persona de 2 años o más con ciertas condiciones médicas que aumentan el riesgo de enfermedad neumocócica",
+        "numDose": "1",
+        "doseInterval": "—",
+        "reinforcement": "Se puede recomendar una segunda dosis de PPSV23 y otra vacuna neumocócica (PCV13) para ciertos grupos de alto riesgo.",
+        "totalDose": "Varía"
+      }
+    ],
+    "recommended": [
+      "Todos los adultos de 65 años o más.",
+      "Cualquier persona de 2 años o más con ciertas condiciones médicas que pueden aumentar el riesgo de enfermedad neumocócica.",
+      "Fumadores de cigarrillos."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de PPSV23, o con cualquier alergia grave y potencialmente mortal."
+    ],
+    "precautions": [
+      "Las personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la PPSV23.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse."
+    ],
+    "observations": [
+      "La vacuna polisacárida neumocócica (PPSV23) puede prevenir la enfermedad neumocócica.",
+      "La enfermedad neumocócica se refiere a cualquier enfermedad causada por bacterias neumocócicas, incluyendo neumonía (una de las causas más comunes).",
+      "Además de la neumonía, las bacterias neumocócicas pueden causar infecciones de oído, infecciones de los senos paranasales, meningitis (infección del tejido que cubre el cerebro y la médula espinal) y bacteriemia (infección del torrente sanguíneo).",
+      "Cualquier persona puede contraer la enfermedad neumocócica, pero los niños menores de 2 años, las personas con ciertas condiciones médicas, los adultos de 65 años o más y los fumadores tienen el mayor riesgo.",
+      "La mayoría de las infecciones neumocócicas son leves, pero algunas pueden resultar en problemas a largo plazo, como daño cerebral o pérdida de audición. La meningitis, la bacteriemia y la neumonía causadas por la enfermedad neumocócica pueden ser fatales.",
+      "PPSV23 protege contra 23 tipos de bacterias que causan la enfermedad neumocócica.",
+      "La mayoría de las personas necesitan solo una dosis de PPSV23. Una segunda dosis de PPSV23 y otro tipo de vacuna neumocócica llamada PCV13 se recomiendan para ciertos grupos de alto riesgo.",
+      "Los adultos de 65 años o más deben recibir una dosis de PPSV23 incluso si ya recibieron una o más dosis de la vacuna antes de cumplir los 65 años.",
+      "Los efectos secundarios pueden incluir enrojecimiento o dolor en el lugar de la inyección, sensación de cansancio, fiebre o dolores musculares.",
+      "Existe una posibilidad muy remota de que la vacuna cause una reacción alérgica grave, otra lesión grave o la muerte."
+    ],
+    "coadministration": []
+  },
+  "13": {
+    "name": "Hepatitis A Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Niños",
+        "numDose": "2",
+        "doseInterval": "Primera dosis entre los 12 y 23 meses de edad; Segunda dosis al menos 6 meses después de la primera.",
+        "reinforcement": "No",
+        "totalDose": "2"
+      },
+      {
+        "target": "Lactantes de 6 a 11 meses que viajan fuera de los Estados Unidos",
+        "numDose": "1",
+        "doseInterval": "Antes del viaje",
+        "reinforcement": "Sí, necesitan 2 dosis adicionales a las edades recomendadas para protección duradera.",
+        "totalDose": "3"
+      },
+      {
+        "target": "Niños mayores y adolescentes de 2 a 18 años (no vacunados previamente)",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Adultos (no vacunados previamente y que desean protección)",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Personas con contacto directo con alguien con hepatitis A (no vacunadas previamente)",
+        "numDose": "1",
+        "doseInterval": "Lo antes posible y dentro de las 2 semanas posteriores a la exposición.",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      }
+    ],
+    "recommended": [
+      "Niños entre 12 y 23 meses de edad.",
+      "Lactantes de 6 a 11 meses que viajan fuera de los Estados Unidos a zonas donde se recomienda la protección contra la hepatitis A.",
+      "Niños mayores y adolescentes de 2 a 18 años que no fueron vacunados previamente.",
+      "Adultos que no fueron vacunados previamente y desean protección.",
+      "Viajeros internacionales.",
+      "Hombres que tienen contacto sexual con otros hombres.",
+      "Personas que usan drogas inyectables o no inyectables.",
+      "Personas con riesgo ocupacional de infección.",
+      "Personas que anticipan contacto cercano con un niño adoptado internacionalmente.",
+      "Personas sin hogar.",
+      "Personas con VIH.",
+      "Personas con enfermedad hepática crónica.",
+      "Personas con contacto directo con alguien con hepatitis A (vacunación post-exposición)."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de la vacuna contra la hepatitis A, o con cualquier alergia grave y potencialmente mortal."
+    ],
+    "precautions": [
+      "Las personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna contra la hepatitis A.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse.",
+      "Las mujeres embarazadas o en período de lactancia deben vacunarse si están en riesgo de contraer hepatitis A; el embarazo o la lactancia no son razones para evitar la vacunación."
+    ],
+    "observations": [
+      "La vacuna contra la hepatitis A puede prevenir la hepatitis A, una enfermedad hepática grave.",
+      "La hepatitis A se propaga generalmente por contacto personal cercano con una persona infectada o por la ingestión involuntaria del virus a través de objetos, alimentos o bebidas contaminados con pequeñas cantidades de heces de una persona infectada.",
+      "La mayoría de los adultos con hepatitis A presentan síntomas (fatiga, falta de apetito, dolor de estómago, náuseas, ictericia), pero la mayoría de los niños menores de 6 años no presentan síntomas.",
+      "Una persona infectada puede transmitir la enfermedad incluso si no tiene síntomas.",
+      "La mayoría de las personas con hepatitis A se sienten enfermas durante varias semanas, pero suelen recuperarse por completo sin daño hepático duradero.",
+      "En casos raros, la hepatitis A puede causar insuficiencia hepática y la muerte, siendo más común en personas mayores de 50 años y en personas con otras enfermedades hepáticas.",
+      "La vacuna contra la hepatitis A ha reducido significativamente la incidencia de la enfermedad, pero aún ocurren brotes entre personas no vacunadas.",
+      "Los efectos secundarios comunes incluyen dolor o enrojecimiento en el lugar de la inyección, fiebre, dolor de cabeza, cansancio o pérdida de apetito.",
+      "Existe una posibilidad muy remota de que la vacuna cause una reacción alérgica grave, otra lesión grave o la muerte."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "14": {
+    "name": "Meningococcal ACWY Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Adolescentes",
+        "numDose": "2",
+        "doseInterval": "Primera dosis a los 11 o 12 años; Segunda (refuerzo) a los 16 años.",
+        "reinforcement": "No",
+        "totalDose": "2"
+      },
+      {
+        "target": "Personas con riesgo por brote de enfermedad meningocócica de serogrupo A, C, W o Y",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Personas con VIH",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Cualquier persona con bazo dañado o extirpado (incluyendo personas con anemia falciforme)",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Cualquier persona con una afección rara del sistema inmunitario llamada 'deficiencia del componente del complemento'",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Cualquier persona que tome un tipo de medicamento llamado 'inhibidor del complemento' (como eculizumab o ravulizumab)",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Microbiólogos que trabajan rutinariamente con aislamientos de N. meningitidis",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Cualquier persona que viaje o viva en una parte del mundo donde la enfermedad meningocócica es común (como partes de África)",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Estudiantes universitarios de primer año que viven en residencias y que no han sido vacunados completamente con la vacuna meningocócica ACWY",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Reclutas militares de EE. UU.",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      }
+    ],
+    "recommended": [
+      "Adolescentes de 11 o 12 años de edad.",
+      "Adolescentes de 16 años de edad (para la dosis de refuerzo).",
+      "Personas en riesgo debido a un brote de enfermedad meningocócica de serogrupo A, C, W o Y.",
+      "Personas con VIH.",
+      "Cualquier persona con el bazo dañado o extirpado, incluyendo personas con anemia falciforme.",
+      "Cualquier persona con una afección rara del sistema inmunitario llamada 'deficiencia del componente del complemento'.",
+      "Cualquier persona que esté tomando un tipo de medicamento llamado 'inhibidor del complemento' (como eculizumab o ravulizumab).",
+      "Microbiólogos que trabajan rutinariamente con aislamientos de N. meningitidis.",
+      "Cualquier persona que viaje o viva en una parte del mundo donde la enfermedad meningocócica es común (como partes de África).",
+      "Estudiantes universitarios de primer año que viven en residencias y no han sido vacunados completamente.",
+      "Reclutas militares de EE. UU.",
+      "Mujeres embarazadas o en período de lactancia si está indicado."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de la vacuna meningocócica ACWY, o con cualquier alergia grave y potencialmente mortal."
+    ],
+    "precautions": [
+      "Las personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna meningocócica ACWY.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse."
+    ],
+    "observations": [
+      "La vacuna meningocócica ACWY puede ayudar a proteger contra la enfermedad meningocócica causada por los serogrupos A, C, W e Y. Existe otra vacuna meningocócica para el serogrupo B.",
+      "La enfermedad meningocócica puede causar meningitis (infección del revestimiento del cerebro y la médula espinal) e infecciones de la sangre.",
+      "A pesar del tratamiento, la enfermedad meningocócica mata del 10 al 15% de las personas infectadas. Del 10 al 20% de los supervivientes sufren discapacidades como pérdida de audición, daño cerebral, daño renal, pérdida de extremidades, problemas del sistema nervioso o cicatrices graves por injertos de piel.",
+      "La enfermedad meningocócica es rara, pero es grave y tiene un riesgo significativo de muerte o discapacidades duraderas.",
+      "Cualquier persona puede contraer la enfermedad meningocócica, pero los lactantes menores de un año, los adolescentes y adultos jóvenes de 16 a 23 años, las personas con ciertas afecciones médicas que afectan el sistema inmunitario, los microbiólogos que trabajan con N. meningitidis y las personas en riesgo debido a un brote están en mayor riesgo.",
+      "Los efectos secundarios comunes incluyen enrojecimiento o dolor en el lugar de la inyección, dolor muscular, dolor de cabeza o cansancio.",
+      "Una pequeña parte de las personas experimenta dolor muscular, dolor de cabeza o cansancio.",
+      "Existe una posibilidad muy remota de que la vacuna cause una reacción alérgica grave, otra lesión grave o la muerte.",
+      "Hay información limitada sobre los riesgos de esta vacuna para mujeres embarazadas o en período de lactancia, pero no se han identificado problemas de seguridad."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "15": {
+    "name": "Meningococcal B Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Personas de 10 años o más con mayor riesgo de enfermedad meningocócica del serogrupo B",
+        "numDose": "Más de 1",
+        "doseInterval": "Según la vacuna específica (debe ser la misma para todas las dosis)",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      },
+      {
+        "target": "Personas de 16 a 23 años (para protección a corto plazo)",
+        "numDose": "Varía",
+        "doseInterval": "Según discusión con el proveedor de atención médica.",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      }
+    ],
+    "recommended": [
+      "Personas de 10 años o más con mayor riesgo de enfermedad meningocócica del serogrupo B.",
+      "Personas en riesgo debido a un brote de enfermedad meningocócica del serogrupo B.",
+      "Cualquier persona con el bazo dañado o extirpado, incluyendo personas con anemia falciforme.",
+      "Cualquier persona con una afección rara del sistema inmunitario llamada 'deficiencia del componente del complemento'.",
+      "Cualquier persona que esté tomando un tipo de medicamento llamado 'inhibidor del complemento' (como eculizumab o ravulizumab).",
+      "Microbiólogos que trabajan rutinariamente con aislamientos de N. meningitidis.",
+      "Personas de 16 a 23 años (especialmente de 16 a 18 años) que deseen protección a corto plazo contra la mayoría de las cepas del serogrupo B."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de la vacuna meningocócica B, o con cualquier alergia grave y potencialmente mortal.",
+      "Mujeres embarazadas (a menos que el riesgo supere los beneficios, según consulta médica)."
+    ],
+    "precautions": [
+      "Las personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna meningocócica B.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse."
+    ],
+    "observations": [
+      "La vacuna meningocócica B puede ayudar a proteger contra la enfermedad meningocócica causada por el serogrupo B. Existe otra vacuna para los serogrupos A, C, W e Y.",
+      "La enfermedad meningocócica puede causar meningitis (infección del revestimiento del cerebro y la médula espinal) e infecciones de la sangre.",
+      "A pesar del tratamiento, la enfermedad meningocócica mata del 10 al 15% de las personas infectadas. Del 10 al 20% de los supervivientes sufren discapacidades como pérdida de audición, daño cerebral, daño renal, pérdida de extremidades, problemas del sistema nervioso o cicatrices graves por injertos de piel.",
+      "La enfermedad meningocócica es rara, pero es grave y tiene un riesgo significativo de muerte o discapacidades duraderas.",
+      "Cualquier persona puede contraer la enfermedad meningocócica, pero los lactantes menores de un año, los adolescentes y adultos jóvenes de 16 a 23 años, las personas con ciertas afecciones médicas que afectan el sistema inmunitario, los microbiólogos que trabajan con N. meningitidis y las personas en riesgo debido a un brote están en mayor riesgo.",
+      "Se necesitan más de 1 dosis para la mejor protección. Debe usarse la misma vacuna para todas las dosis.",
+      "Los efectos secundarios comunes incluyen dolor, enrojecimiento o hinchazón en el lugar de la inyección, cansancio, dolor de cabeza, dolor muscular o articular, fiebre o náuseas. Algunos de estos ocurren en más de la mitad de las personas que reciben la vacuna.",
+      "Existe una posibilidad muy remota de que la vacuna cause una reacción alérgica grave, otra lesión grave o la muerte."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "16": {
+    "name": "Polio Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Niños",
+        "numDose": "4",
+        "doseInterval": "2 meses, 4 meses, 6-18 meses, y 4-6 años",
+        "reinforcement": "No",
+        "totalDose": "4"
+      },
+      {
+        "target": "Adultos en alto riesgo (viajeros, trabajadores de laboratorio, trabajadores de la salud, personas no vacunadas con niños que recibirán la vacuna oral contra la poliomielitis)",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      }
+    ],
+    "recommended": [
+      "Todos los niños.",
+      "Adultos que viajan a ciertas partes del mundo.",
+      "Trabajadores de laboratorio que puedan manipular el poliovirus.",
+      "Trabajadores de la salud que traten a pacientes que puedan tener polio.",
+      "Personas no vacunadas cuyos hijos vayan a recibir la vacuna oral contra la poliomielitis (por ejemplo, adoptados internacionales o refugiados).",
+      "Mujeres embarazadas con alto riesgo de infección que requieren protección inmediata."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de la vacuna contra la polio, o con cualquier alergia grave y potencialmente mortal."
+    ],
+    "precautions": [
+      "Las personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna contra la polio.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse.",
+      "Para mujeres embarazadas, solo se administra si el riesgo de infección es alto y se requiere protección inmediata, ya que se conoce poco sobre los riesgos."
+    ],
+    "observations": [
+      "La vacuna contra la polio puede prevenir la **poliomielitis**, una enfermedad incapacitante y potencialmente mortal causada por el poliovirus.",
+      "El poliovirus puede infectar la médula espinal de una persona, lo que lleva a la parálisis.",
+      "La mayoría de las personas infectadas con poliovirus no tienen síntomas y muchas se recuperan sin complicaciones.",
+      "Algunas personas experimentarán dolor de garganta, fiebre, cansancio, náuseas, dolor de cabeza o dolor de estómago.",
+      "Un grupo más pequeño desarrollará síntomas más graves que afectan el cerebro y la médula espinal, como: parestesia (sensación de hormigueo en las piernas), meningitis (infección del revestimiento de la médula espinal y/o el cerebro), o parálisis (incapacidad para mover partes del cuerpo) o debilidad en los brazos, las piernas o ambos.",
+      "La parálisis es el síntoma más grave asociado con la polio, ya que puede conducir a una discapacidad permanente y la muerte.",
+      "Aunque la parálisis de las extremidades puede mejorar, algunas personas pueden desarrollar nuevo dolor muscular y debilidad 15 a 40 años después, lo que se conoce como 'síndrome post-polio'.",
+      "La polio ha sido eliminada en Estados Unidos, pero todavía ocurre en otras partes del mundo. La vacunación mantiene una alta inmunidad en la población y protege a Estados Unidos de la polio.",
+      "La vacuna contra la polio puede administrarse como vacuna independiente o como parte de una vacuna combinada.",
+      "Los efectos secundarios pueden incluir un punto doloroso con enrojecimiento, hinchazón o dolor en el lugar de la inyección.",
+      "Existe una posibilidad muy remota de que la vacuna cause una reacción alérgica grave, otra lesión grave o la muerte."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "17": {
+    "name": "Rotavirus Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Bebés",
+        "numDose": "2 o 3 (dependiendo de la marca)",
+        "doseInterval": "Primera dosis antes de las 15 semanas de edad; última dosis antes de los 8 meses de edad.",
+        "reinforcement": "No",
+        "totalDose": "2 o 3"
+      }
+    ],
+    "recommended": [
+      "Todos los bebés, para prevenir la enfermedad por rotavirus."
+    ],
+    "notRecommended": [
+      "Bebés que hayan tenido una reacción alérgica después de una dosis previa de la vacuna contra el rotavirus, o que tengan alguna alergia grave y potencialmente mortal.",
+      "Bebés con un sistema inmunológico debilitado.",
+      "Bebés con inmunodeficiencia combinada grave (SCID).",
+      "Bebés que hayan tenido un tipo de obstrucción intestinal llamado 'invaginación intestinal'."
+    ],
+    "precautions": [
+      "Los bebés con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna contra el rotavirus.",
+      "Los bebés con enfermedades leves, como un resfriado, pueden vacunarse."
+    ],
+    "observations": [
+      "La vacuna contra el rotavirus puede prevenir la enfermedad por rotavirus.",
+      "El rotavirus comúnmente causa diarrea acuosa severa, principalmente en bebés y niños pequeños. También son comunes los vómitos y la fiebre.",
+      "Los niños pueden deshidratarse, necesitar hospitalización e incluso morir debido al rotavirus.",
+      "La vacuna contra el rotavirus se administra en gotas por vía oral.",
+      "Casi todos los bebés que reciben la vacuna contra el rotavirus estarán protegidos de la diarrea grave por rotavirus.",
+      "Se ha encontrado otro virus llamado 'circovirus porcino' en una marca de vacuna contra el rotavirus (Rotarix). Este virus no infecta a las personas y no se conoce ningún riesgo de seguridad.",
+      "Los efectos secundarios pueden incluir irritabilidad o diarrea o vómitos leves y temporales.",
+      "Existe un pequeño riesgo adicional de invaginación intestinal (un tipo de obstrucción intestinal que requiere tratamiento hospitalario y posiblemente cirugía) por la vacunación contra el rotavirus, generalmente dentro de la semana posterior a la primera o segunda dosis de la vacuna. Este riesgo adicional se estima entre 1 de cada 20,000 bebés a 1 de cada 100,000 bebés en EE. UU. que reciben la vacuna contra el rotavirus.",
+      "Existe una posibilidad muy remota de que una vacuna cause una reacción alérgica grave, otra lesión grave o la muerte."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "18": {
+    "name": "Influenza (Flu) Vaccine (Inactivated or Recombinant)",
+    "pai": "No",
+    "appliance": [],
+    "recommended": [],
+    "notRecommended": [],
+    "precautions": [
+      "Jóvenes que reciben la vacuna contra la gripe junto con la vacuna neumocócica (PCV13) y/o la vacuna DTaP al mismo tiempo, podrían tener un riesgo ligeramente mayor de sufrir convulsiones causadas por fiebre. Se debe informar al proveedor de atención médica si un niño que va a recibir la vacuna contra la gripe ha tenido alguna vez una convulsión.",
+      "Las personas a veces se desmayan después de procedimientos médicos, incluida la vacunación. Se debe informar al proveedor si se siente mareado o tiene cambios en la visión o zumbidos en los oídos."
+    ],
+    "observations": [
+      "La vacuna contra la influenza (gripe) puede prevenir la influenza.",
+      "Los efectos secundarios comunes después de la vacunación contra la influenza incluyen dolor, enrojecimiento e hinchazón en el lugar de la inyección, fiebre, dolores musculares y dolor de cabeza.",
+      "Puede haber un riesgo muy pequeño de síndrome de Guillain-Barré (SGB) después de la vacuna inactivada contra la influenza (la vacuna contra la gripe).",
+      "Existe una posibilidad muy remota de que una vacuna cause una reacción alérgica grave, otra lesión grave o la muerte."
+    ],
+    "coadministration": [
+      "Los niños pequeños que reciben la vacuna contra la gripe junto con la vacuna neumocócica (PCV13) y/o la vacuna DTaP al mismo tiempo podrían tener un riesgo ligeramente mayor de sufrir convulsiones causadas por fiebre."
+    ]
+  },
+  "19": {
+    "name": "Influenza (Flu) Vaccine (Live, Attenuated Intranasal) - LAIV",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Hombres y mujeres no embarazadas de 2 a 49 años de edad",
+        "numDose": "1 dosis cada temporada de gripe",
+        "doseInterval": "Anualmente, antes de la temporada de gripe (Octubre-Mayo)",
+        "reinforcement": "Sí, anualmente.",
+        "totalDose": "1 dosis por temporada"
+      },
+      {
+        "target": "Niños de 6 meses a 8 años de edad",
+        "numDose": "2 dosis durante una sola temporada de gripe (si es la primera vez que se vacunan o no han recibido el esquema completo)",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "Sí, anualmente, con la posibilidad de 2 dosis en su primera temporada.",
+        "totalDose": "1 o 2 dosis por temporada"
+      }
+    ],
+    "recommended": [
+      "Todas las personas de 6 meses o más, cada temporada de gripe (si la LAIV es una opción adecuada para su grupo de edad y estado de salud).",
+      "Hombres y mujeres no embarazadas de 2 a 49 años de edad."
+    ],
+    "notRecommended": [
+      "Personas menores de 2 años o mayores de 49 años de edad.",
+      "Mujeres embarazadas.",
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de la vacuna contra la influenza, o con cualquier alergia grave y potencialmente mortal.",
+      "Niños o adolescentes de 2 a 17 años que estén recibiendo aspirina o productos que contengan aspirina o salicilatos.",
+      "Personas con un sistema inmunológico debilitado.",
+      "Niños de 2 a 4 años con asma o antecedentes de sibilancias en los últimos 12 meses.",
+      "Personas de 5 años o más con asma.",
+      "Personas que hayan tomado medicamentos antivirales contra la influenza en las últimas 3 semanas.",
+      "Personas que cuidan a individuos gravemente inmunocomprometidos que requieren un ambiente protegido.",
+      "Personas con otras afecciones médicas subyacentes que pueden ponerlas en mayor riesgo de complicaciones graves de la gripe (como enfermedad pulmonar, enfermedad cardíaca, enfermedad renal como diabetes, trastornos renales o hepáticos, trastornos neurológicos o neuromusculares o metabólicos).",
+      "Personas sin bazo o con un bazo no funcional.",
+      "Personas con implante coclear.",
+      "Personas con una fuga de líquido cefalorraquídeo (una fuga del líquido que rodea el cerebro a la nariz, garganta, oído o alguna otra ubicación en la cabeza).",
+      "Personas que hayan tenido el Síndrome de Guillain-Barré dentro de las 6 semanas posteriores a una dosis previa de la vacuna contra la influenza."
+    ],
+    "precautions": [
+      "Las personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna contra la influenza.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse.",
+      "Para algunos pacientes, un tipo diferente de vacuna contra la influenza (vacuna inactivada o recombinante contra la influenza) podría ser más apropiado que la vacuna contra la influenza viva atenuada."
+    ],
+    "observations": [
+      "La vacuna contra la influenza (gripe) puede prevenir la influenza.",
+      "La gripe es una enfermedad contagiosa que se propaga anualmente. Es más peligrosa para lactantes y niños pequeños, personas de 65 años o más, mujeres embarazadas y personas con ciertas afecciones de salud o un sistema inmunológico debilitado.",
+      "Las complicaciones relacionadas con la gripe incluyen neumonía, bronquitis, infecciones de los senos paranasales e infecciones de oído. Puede empeorar afecciones médicas existentes como enfermedades cardíacas, cáncer o diabetes.",
+      "Los síntomas de la gripe pueden incluir fiebre y escalofríos, dolor de garganta, dolores musculares, fatiga, tos, dolor de cabeza y secreción o congestión nasal. Los vómitos y la diarrea son más comunes en niños que en adultos.",
+      "Miles de personas mueren a causa de la gripe cada año y muchas más son hospitalizadas. La vacuna previene millones de enfermedades y visitas al médico relacionadas con la gripe anualmente.",
+      "La vacuna viva atenuada contra la influenza (LAIV) es una vacuna en aerosol nasal.",
+      "La protección se desarrolla aproximadamente 2 semanas después de la vacunación.",
+      "Cada año se fabrica una nueva vacuna contra la gripe para proteger contra los virus de la influenza que se cree que causarán enfermedades en la próxima temporada de gripe. Incluso si la vacuna no coincide exactamente con los virus, aún puede proporcionar cierta protección.",
+      "La vacuna contra la influenza no causa gripe.",
+      "Los efectos secundarios pueden incluir secreción nasal o congestión nasal, sibilancias y dolor de cabeza. Otros posibles efectos secundarios son vómitos, dolores musculares, fiebre, dolor de garganta y tos. Estos problemas suelen ser leves y de corta duración.",
+      "Existe una posibilidad muy remota de que una vacuna cause una reacción alérgica grave, otra lesión grave o la muerte."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+  "20": {
+    "name": "Yellow Fever Vaccine",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Personas de 9 meses a 59 años que viajan o viven en zonas de riesgo de actividad del virus de la fiebre amarilla, o que viajan a un país con requisito de entrada de vacunación.",
+        "numDose": "1",
+        "doseInterval": "Dosis única",
+        "reinforcement": "No (una dosis proporciona protección de por vida para la mayoría de las personas)",
+        "totalDose": "1"
+      },
+      {
+        "target": "Personal de laboratorio que podría estar expuesto al virus de la fiebre amarilla o al virus de la vacuna.",
+        "numDose": "1",
+        "doseInterval": "Dosis única",
+        "reinforcement": "No",
+        "totalDose": "1"
+      },
+      {
+        "target": "Personas menores de 9 meses o mayores de 59 años con mayor riesgo (en algunas situaciones, previa consulta médica).",
+        "numDose": "Varía",
+        "doseInterval": "Según recomendación médica",
+        "reinforcement": "No",
+        "totalDose": "Varía"
+      }
+    ],
+    "recommended": [
+      "Personas de 9 meses a 59 años que viajan a o viven en áreas de riesgo de actividad del virus de la fiebre amarilla.",
+      "Personas de 9 meses a 59 años que viajan a un país con un requisito de entrada de vacunación.",
+      "Personal de laboratorio que podría estar expuesto al virus de la fiebre amarilla o al virus de la vacuna.",
+      "Personas menores de 9 meses o mayores de 59 años que se encuentran en mayor riesgo (en situaciones específicas, previa consulta con el médico)."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave después de una dosis previa de la vacuna contra la fiebre amarilla, o con cualquier alergia grave y potencialmente mortal.",
+      "Personas con un sistema inmunológico debilitado.",
+      "Personas a las que se les ha extirpado el timo o se les ha diagnosticado un trastorno del timo.",
+      "Mujeres embarazadas o en período de lactancia (a menos que el riesgo de infección sea alto y los beneficios de la vacunación superen los riesgos potenciales, previa consulta médica)."
+    ],
+    "precautions": [
+      "Las personas con enfermedades moderadas o graves deben esperar a recuperarse antes de recibir la vacuna contra la fiebre amarilla.",
+      "Las personas con enfermedades leves, como un resfriado, pueden vacunarse.",
+      "No donar sangre durante 14 días después de la vacunación para evitar la transmisión del virus de la vacuna.",
+      "Si no puede vacunarse por razones médicas y viaja a un país con requisito de entrada de vacunación, su médico deberá completar la sección de \"Contraindicaciones Médicas para la Vacunación\" de su \"Tarjeta Amarilla\" (Certificado Internacional de Vacunación o Profilaxis - ICVP) y darle una carta de exención. Se recomienda contactar a las embajadas de los países a visitar para más información sobre exenciones."
+    ],
+    "observations": [
+      "La vacuna contra la fiebre amarilla puede prevenir la **fiebre amarilla**, una enfermedad grave causada por el virus de la fiebre amarilla para la que no existe tratamiento ni cura.",
+      "El virus de la fiebre amarilla se propaga por la picadura de un mosquito infectado y se encuentra en partes de África y América del Sur.",
+      "La mayoría de las personas infectadas no presentan síntomas o tienen una enfermedad leve y se recuperan por completo. Sin embargo, algunas personas desarrollan una enfermedad grave.",
+      "Los síntomas y signos de la fiebre amarilla incluyen: aparición repentina de fiebre y escalofríos, dolor de cabeza, dolor de espalda o dolores corporales generales, náuseas o vómitos.",
+      "Los síntomas más graves de la fiebre amarilla pueden incluir: ictericia (piel u ojos amarillos), sangrado en múltiples sitios del cuerpo, shock, insuficiencia hepática, renal u otros órganos.",
+      "La fiebre amarilla grave puede causar la muerte en el 30% al 60% de las personas afectadas.",
+      "Además de la vacunación, la protección incluye evitar las picaduras de mosquitos (uso de repelente, ropa de manga larga y pantalones largos, permanecer en áreas con buena protección o aire acondicionado).",
+      "La vacuna contra la fiebre amarilla es una vacuna viva atenuada y se administra en una sola inyección. Una dosis proporciona protección de por vida para la mayoría de las personas.",
+      "La vacuna contra la fiebre amarilla se administra solo en centros de vacunación designados. Después de vacunarse, se le entregará un 'Certificado Internacional de Vacunación o Profilaxis' (ICVP o 'tarjeta amarilla') como prueba de vacunación para la entrada a ciertos países.",
+      "Los efectos secundarios comunes incluyen dolor, enrojecimiento o hinchazón en el lugar de la inyección. También pueden ocurrir fiebre, dolor de cabeza y dolores musculares.",
+      "Reacciones más graves ocurren raramente e incluyen: reacciones del sistema nervioso como inflamación del cerebro (encefalitis) y/o el revestimiento de la médula espinal (meningitis), o Síndrome de Guillain-Barré (SGB), entre otros; y enfermedades graves potencialmente mortales con disfunción o insuficiencia orgánica.",
+      "Las personas de 60 años o más y las personas con sistemas inmunológicos debilitados podrían tener más probabilidades de experimentar reacciones graves a la vacuna contra la fiebre amarilla.",
+      "Existe una posibilidad remota de que una vacuna cause una reacción alérgica grave, otra lesión grave o la muerte."
+    ],
+    "coadministration": []
+  },
+  "21": {
+    "name": "RSV-mAB",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Lactantes menores de 6 meses (mediante vacuna materna durante el embarazo)",
+        "numDose": "1",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "1"
+      },
+      {
+        "target": "Adultos de 75 años o más",
+        "numDose": "1",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "1"
+      },
+      {
+        "target": "Adultos de 60-74 años con factores de riesgo",
+        "numDose": "1",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "1"
+      }
+    ],
+    "recommended": [
+      "Mujeres embarazadas entre las semanas 32 y 36 de gestación, especialmente durante los meses de circulación de RSV.",
+      "Adultos mayores de 75 años.",
+      "Adultos de 60 a 74 años con enfermedades crónicas cardíacas o pulmonares, inmunosupresión, u otras condiciones médicas crónicas.",
+      "Personas mayores que viven en hogares geriátricos."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave a una dosis previa o a un componente de la vacuna."
+    ],
+    "precautions": [
+      "Personas con enfermedades agudas moderadas o graves deben esperar a recuperarse.",
+      "Mujeres embarazadas fuera del rango recomendado (antes de la semana 32 o después de la 36)."
+    ],
+    "observations": [
+      "La vacuna puede administrarse al mismo tiempo que otras vacunas.",
+      "En adultos mayores se ha reportado síndrome de Guillain-Barré, aunque no se ha confirmado una relación directa.",
+      "En embarazadas se han reportado casos de preeclampsia y parto prematuro, sin que se haya establecido causalidad.",
+      "La infección por RSV puede causar enfermedades graves como bronquiolitis y neumonía en lactantes y adultos mayores.",
+      "La inmunización puede realizarse mediante vacuna a la madre o anticuerpos monoclonales administrados directamente al bebé, pero no se necesitan ambos."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  },
+
+  "22": {
+    "name": "Viruela Símica (Mpox)",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Adultos mayores de 18 años en riesgo alto de exposición a viruela o viruela símica",
+        "numDose": "2",
+        "doseInterval": "4 semanas",
+        "reinforcement": "Cada 2 o 10 años si el riesgo persiste",
+        "totalDose": "2"
+      },
+      {
+        "target": "Personas que ya recibieron vacuna contra la viruela anteriormente",
+        "numDose": "1",
+        "doseInterval": "—",
+        "reinforcement": "Cada 2 o 10 años si el riesgo persiste",
+        "totalDose": "1"
+      }
+    ],
+    "recommended": [
+      "Trabajadores de laboratorio que manipulan ortopoxvirus.",
+      "Miembros de equipos de respuesta a emergencias en riesgo de exposición a viruela o viruela símica.",
+      "Personas que administran la vacuna ACAM2000® o cuidan a pacientes con infecciones por ortopoxvirus.",
+      "Personas expuestas recientemente al virus de la viruela símica (post-exposición)."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave (anafilaxia) a una dosis previa de vacuna contra la viruela o a un componente de la vacuna."
+    ],
+    "precautions": [
+      "Personas con inmunosupresión.",
+      "Embarazo o lactancia (en vacunación rutinaria, no post-exposición).",
+      "Enfermedad moderada o grave: posponer vacunación rutinaria hasta la recuperación."
+    ],
+    "observations": [
+      "JYNNEOS™ no puede causar viruela, viruela símica ni otras enfermedades infecciosas.",
+      "Puede administrarse junto con otras vacunas, aunque se recomienda esperar 4 semanas para vacunas COVID-19 en adolescentes y adultos jóvenes con riesgo de miocarditis.",
+      "En caso de exposición al virus, se debe aplicar la vacuna incluso si la persona está enferma, embarazada o inmunocomprometida.",
+      "Los efectos secundarios comunes incluyen dolor, enrojecimiento, picazón, fatiga, dolor de cabeza y muscular.",
+      "Casos graves o reacciones adversas deben reportarse a VAERS o pueden estar cubiertos por el Programa de Compensación por Lesiones por Contramedidas."
+    ],
+    "coadministration": [
+      "Puede administrarse al tiempo con otras vacunas, con precaución específica respecto a ciertas vacunas COVID-19."
+    ]
+  },
+  "23": {
+    "name": "Dengue",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Niños de 9 a 16 años con antecedente confirmado de infección previa por dengue",
+        "numDose": "3",
+        "doseInterval": "Cada 6 meses",
+        "reinforcement": "No",
+        "totalDose": "3"
+      }
+    ],
+    "recommended": [
+      "Niños entre 9 y 16 años con prueba de laboratorio que confirme infección previa por dengue.",
+      "Residentes de zonas endémicas de dengue como Puerto Rico, Samoa Americana, Islas Vírgenes de EE.UU., Estados Federados de Micronesia, Islas Marshall y Palaos."
+    ],
+    "notRecommended": [
+      "Viajeros a zonas endémicas sin antecedentes de infección por dengue.",
+      "Niños sin infección previa por dengue confirmada por laboratorio, ya que el riesgo de dengue grave aumenta tras la vacunación en estos casos."
+    ],
+    "precautions": [
+      "Personas con antecedentes de reacción alérgica grave a una dosis anterior o a un componente de la vacuna.",
+      "Sistema inmune debilitado.",
+      "Embarazo o lactancia: deben discutir los beneficios y riesgos con su proveedor.",
+      "Enfermedad moderada o grave: posponer la vacunación hasta la recuperación."
+    ],
+    "observations": [
+      "La vacuna puede administrarse al mismo tiempo que otras vacunas.",
+      "La mayoría de las infecciones por dengue son leves o asintomáticas, pero algunas pueden causar enfermedad grave, hospitalización o incluso la muerte.",
+      "Los signos de advertencia de dengue grave suelen aparecer entre 12 y 24 horas después de que desaparece la fiebre.",
+      "La vacunación en personas sin infección previa por dengue puede aumentar el riesgo de dengue grave en caso de infección posterior."
+    ],
+    "coadministration": ["Puede administrarse al tiempo con otras vacunas."]
+  },
+  "24": {
+    "name": "Pentavalente (DPT-HB-Hib)",
+    "pai": "Sí",
+    "appliance": [
+      {
+        "target": "Niños menores de 1 año",
+        "numDose": "3",
+        "doseInterval": "2 meses entre cada dosis",
+        "reinforcement": "Sí, a los 18 meses",
+        "totalDose": "4"
+      }
+    ],
+    "recommended": [
+      "Ver detalles en DPT (difteria, tétanos y tos ferina)",
+      "Ver detalles en Haemophilus influenzae tipo b",
+      "Ver detalles en Hepatitis B"
+    ],
+    "notRecommended": [
+      "Ver detalles en DPT (difteria, tétanos y tos ferina)",
+      "Ver detalles en Haemophilus influenzae tipo b",
+      "Ver detalles en Hepatitis B"
+    ],
+    "precautions": [
+      "Ver detalles en DPT (difteria, tétanos y tos ferina)",
+      "Ver detalles en Haemophilus influenzae tipo b",
+      "Ver detalles en Hepatitis B"
+    ],
+    "observations": [
+      "Ver detalles en DPT (difteria, tétanos y tos ferina)",
+      "Ver detalles en Haemophilus influenzae tipo b",
+      "Ver detalles en Hepatitis B"
+    ],
+    "coadministration": [
+      "Ver detalles en DPT (difteria, tétanos y tos ferina)",
+      "Ver detalles en Haemophilus influenzae tipo b",
+      "Ver detalles en Hepatitis B"
+    ]
+  },
+  "25": {
+    "name": "RSV-mAB",
+    "pai": "No",
+    "appliance": [
+      {
+        "target": "Lactantes menores de 6 meses (mediante vacuna materna durante el embarazo)",
+        "numDose": "1",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "1"
+      },
+      {
+        "target": "Adultos de 75 años o más",
+        "numDose": "1",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "1"
+      },
+      {
+        "target": "Adultos de 60-74 años con factores de riesgo",
+        "numDose": "1",
+        "doseInterval": "—",
+        "reinforcement": "No",
+        "totalDose": "1"
+      }
+    ],
+    "recommended": [
+      "Mujeres embarazadas entre las semanas 32 y 36 de gestación, especialmente durante los meses de circulación de RSV.",
+      "Adultos mayores de 75 años.",
+      "Adultos de 60 a 74 años con enfermedades crónicas cardíacas o pulmonares, inmunosupresión, u otras condiciones médicas crónicas.",
+      "Personas mayores que viven en hogares geriátricos."
+    ],
+    "notRecommended": [
+      "Personas con antecedentes de reacción alérgica grave a una dosis previa o a un componente de la vacuna."
+    ],
+    "precautions": [
+      "Personas con enfermedades agudas moderadas o graves deben esperar a recuperarse.",
+      "Mujeres embarazadas fuera del rango recomendado (antes de la semana 32 o después de la 36)."
+    ],
+    "observations": [
+      "La vacuna puede administrarse al mismo tiempo que otras vacunas.",
+      "En adultos mayores se ha reportado síndrome de Guillain-Barré, aunque no se ha confirmado una relación directa.",
+      "En embarazadas se han reportado casos de preeclampsia y parto prematuro, sin que se haya establecido causalidad.",
+      "La infección por RSV puede causar enfermedades graves como bronquiolitis y neumonía en lactantes y adultos mayores.",
+      "La inmunización puede realizarse mediante vacuna a la madre o anticuerpos monoclonales administrados directamente al bebé, pero no se necesitan ambos."
+    ],
+    "coadministration": [
+      "Puede administrarse al mismo tiempo que otras vacunas."
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { recomendarVacunas } from "../utils/recomendaciones";
-import CONDICIONES from "../utils/condiciones";
+import CONDICIONES from "../data/condiciones";
 import { useNavigate } from "react-router-dom";
 
 export default function MainForms() {
