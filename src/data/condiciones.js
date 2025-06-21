@@ -1,7 +1,6 @@
 const CONDICIONES = [
   "Embarazo",
   "Malformación congénita del tracto gastrointestinal",
-  "Mujer",
   "Inmunocomprometidos (Excluyndo VIH)",
   "Infección VIH  Conteo CD4 <15% or <200mm3",
   "Infección VIH  Conteo ≥15% and ≥200mm3",

@@ -16,23 +16,34 @@ export default function MainForms() {
     const edad = `${ageValue} ${ageUnit}`;
     const condiciones = [condicionSeleccionada];
     const genero = gender === "Hombre" ? "M" : "F";
-
+    if (genero === "F") {
+      condiciones.push("Mujer");
+    }
     const resultado = recomendarVacunas(edad, condiciones, genero);
     const parametros = { edad: edad, condiciones: condiciones, gender: gender };
 
     navigate("/vaccines", { state: { resultado, parametros } });
   };
   const condicionesFiltradas = () => {
-    if (gender === "Hombre") {
-      return CONDICIONES.filter(
-        (cond) => cond !== "Embarazo" && cond !== "Mujer"
-      );
-    } else if (gender === "Mujer") {
-      return CONDICIONES.filter(
-        (cond) => cond !== "Hombres que tienen relaciones sexuales con hombres"
-      );
-    }
-    return CONDICIONES;
+    return CONDICIONES.filter((cond) => {
+      if (gender === "Hombre" && cond === "Embarazo") return false;
+      if (
+        gender === "Mujer" &&
+        cond === "Embarazo" &&
+        !(
+          ageUnit === "años" &&
+          parseInt(ageValue) >= 15 &&
+          parseInt(ageValue) <= 49
+        )
+      )
+        return false;
+      if (
+        gender === "Mujer" &&
+        cond === "Hombres que tienen relaciones sexuales con hombres"
+      )
+        return false;
+      return true;
+    });
   };
 
   return (
@@ -50,7 +61,7 @@ export default function MainForms() {
           <label className="block text-green-800 font-medium mb-2">
             Género
           </label>
-          <div className="flex space-x-4">
+          <div className="flex space-x-4 w-full ">
             <label className="flex items-center space-x-2">
               <input
                 type="radio"
