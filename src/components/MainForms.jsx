@@ -22,6 +22,18 @@ export default function MainForms() {
 
     navigate("/vaccines", { state: { resultado, parametros } });
   };
+  const condicionesFiltradas = () => {
+    if (gender === "Hombre") {
+      return CONDICIONES.filter(
+        (cond) => cond !== "Embarazo" && cond !== "Mujer"
+      );
+    } else if (gender === "Mujer") {
+      return CONDICIONES.filter(
+        (cond) => cond !== "Hombres que tienen relaciones sexuales con hombres"
+      );
+    }
+    return CONDICIONES;
+  };
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-green-50 p-4">
@@ -74,6 +86,7 @@ export default function MainForms() {
               onChange={(e) => setAgeValue(e.target.value)}
               placeholder="Edad"
               min={0}
+              max={120}
               className="w-1/2 p-2 border border-green-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500"
             />
             <select
@@ -98,7 +111,7 @@ export default function MainForms() {
             className="w-full p-2 border border-green-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500"
           >
             <option value="">Seleccione una condición</option>
-            {CONDICIONES.map((cond, i) => (
+            {condicionesFiltradas().map((cond, i) => (
               <option key={i} value={cond}>
                 {cond}
               </option>
