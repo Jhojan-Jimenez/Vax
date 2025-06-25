@@ -45,7 +45,7 @@
   },
   "1": {
     "name": "Vacuna antituberculosa (BCG)",
-    "pai": "Si, únicamente recién nacidos",
+    "pai": "Si, recién nacidos y catch-up entre 12 meses y 5 años si pertenece a población indígena o rural dispersa.",
     "appliance": [
       {
         "target": "Recién nacidos y trabajadores de la salud",
@@ -142,7 +142,7 @@
   },
   "3": {
     "name": "Hepatitis B (HepB)",
-    "pai": "No",
+    "pai": "Si, recién nacido y Catch-up entre 2 -  5 años",
     "appliance": [
       {
         "target": "Lactantes (primera dosis al nacer)",
@@ -204,7 +204,7 @@
   },
   "4": {
     "name": "Difteria tosferina Tétanos (DPT)",
-    "pai": "No",
+    "pai": "Si, Catch-up entre 2-4 años y a los 5 años",
     "appliance": [
       {
         "target": "Niños menores de 7 años",
@@ -251,7 +251,7 @@
   },
   "5": {
     "name": "Toxoide tetánico y diftérico del adulto (TD)",
-    "pai": "No",
+    "pai": "Si, únicamente para mujeres en edad fértil (10-49 años)",
     "appliance": [
       {
         "target": "Niños de 7 años o más, adolescentes y adultos",
@@ -288,7 +288,7 @@
   },
   "6": {
     "name": "Tétanos Difteria-Tosferina Acelular (TdaP)",
-    "pai": "No",
+    "pai": "Sí, para mujeres gestantes.",
     "appliance": [
       {
         "target": "Adolescentes (preferiblemente entre 11 y 12 años)",
@@ -353,7 +353,7 @@
   },
   "7": {
     "name": "SRP (Sarampión - Rubela - paperas)",
-    "pai": "No",
+    "pai": "Si, para niños entre 1- 5 años",
     "appliance": [
       {
         "target": "Niños",
@@ -425,7 +425,7 @@
   },
   "8": {
     "name": "Varicela (VAR)",
-    "pai": "No",
+    "pai": "Si, para niños entre 1- 5 años",
     "appliance": [
       {
         "target": "Niños",
@@ -538,7 +538,7 @@
   },
   "10": {
     "name": "Virus del papiloma humano (VPH)",
-    "pai": "No",
+    "pai": "Si, para mujeres desde los 9 hasta los 17 años",
     "appliance": [
       {
         "target": "Adolescentes de 11 o 12 años de edad (puede administrarse a partir de los 9 años)",
@@ -602,7 +602,7 @@
   },
   "11": {
     "name": "Neumococo Vacuna conjugada  (PCV7/PCV10/PCV13/PCV15/PCV20)",
-    "pai": "No",
+    "pai": "Si, 2, 4 meses y desde los 12 meses hasta los 5 años y mayores de 60 años en Bogotá. Cobertura población migrante. Aplica para PCV10 y PCV13.",
     "appliance": [
       {
         "target": "Lactantes y niños pequeños",
@@ -715,7 +715,7 @@
   },
   "13": {
     "name": "Hepatitis A (HepA)",
-    "pai": "No",
+    "pai": "Si, desde los 12 meses hasta los 5 años",
     "appliance": [
       {
         "target": "Niños",
@@ -954,7 +954,7 @@
   },
   "16": {
     "name": "Polio",
-    "pai": "No",
+    "pai": "Si, 2,4,6 meses y desde los 12 meses hasta los 5 años.",
     "appliance": [
       {
         "target": "Niños",
@@ -1006,7 +1006,7 @@
   },
   "17": {
     "name": "Rotavirus Vaccine",
-    "pai": "No",
+    "pai": "Si, 2 y 4 meses",
     "appliance": [
       {
         "target": "Bebés",
@@ -1127,7 +1127,7 @@
   },
   "20": {
     "name": "Yellow Fever Vaccine",
-    "pai": "No",
+    "pai": "Si, desde 1 año hasta 14 años y para toda persona entre los 15 a 59 residente en los municipios de riesgo y viajeros.",
     "appliance": [
       {
         "target": "Personas de 9 meses a 59 años que viajan o viven en zonas de riesgo de actividad del virus de la fiebre amarilla, o que viajan a un país con requisito de entrada de vacunación.",
