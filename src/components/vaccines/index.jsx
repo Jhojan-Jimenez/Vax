@@ -66,7 +66,7 @@ export default function Vaccines() {
       </div>
 
       <div className="text-center mb-6">
-        <h2 className="text-lg text-green-800 font-medium">
+        <h2 className="text-lg text-green-800 font-medium mb-3">
           Parámetros utilizados:
         </h2>
         <p className="text-gray-700">

@@ -43,8 +43,46 @@
       "Puede administrarse al mismo tiempo que otras vacunas."
     ]
   },
+  "1": {
+    "name": "Vacuna antituberculosa (BCG)",
+    "pai": "Si, únicamente recién nacidos",
+    "appliance": [
+      {
+        "target": "Recién nacidos y trabajadores de la salud",
+        "numDose": "1",
+        "doseInterval": "NA",
+        "reinforcement": "No",
+        "totalDose": "1"
+      }
+    ],
+
+    "recommended": [
+      "Pacientes con llegadas recientes (< de 5 años) de países de alta prevalencia.",
+      "Usuarios de drogas inyectables.",
+      "Residentes y empleados de entornos congregados de alto riesgo.",
+      "Personal del laboratorio de microbacteriología.",
+      "Personas con afecciones clínicas (diabetes).",
+      "Niños < de 4 años de edad, o niños y adolescentes expuestos a adultos en categorías de alto riesgo"
+    ],
+    "notRecommended": [
+      "Personas inmunocomprometidas (VIH o candidatas para transplante de órganos).",
+      "Embarazadas"
+    ],
+    "precautions": ["Ninguna"],
+    "observations": [
+      "Consideración individual:",
+      "Un alto porcentaje de pacientes con tuberculosis esté infectado con cepas resistentes tanto a la isoniacida como a la rifampicina.",
+      "Transmisión continua a trabajadores de salud de cepas de tuberculosis resistentes a medicamentos, probabilidad de infecciones posteriores.",
+
+      "Se hayan implementado medidas integrales de precaución para controlar la infección por tuberculosis, pero sin éxito."
+    ],
+    "coadministration": [
+      "Puede ser administrada al mismo tiempo que vacunas vivas, incluyendo las combinadas (sarampión, paperas y rubéola), teniendo especial precaución para no administrarlas en el mismo brazo."
+    ]
+  },
+
   "2": {
-    "name": "Hib Vaccine",
+    "name": "Haemophilus influenzae tipo b",
     "pai": "No",
     "appliance": [
       {
@@ -103,7 +141,7 @@
     ]
   },
   "3": {
-    "name": "Hepatitis B Vaccine",
+    "name": "Hepatitis B (HepB)",
     "pai": "No",
     "appliance": [
       {
@@ -165,7 +203,7 @@
     ]
   },
   "4": {
-    "name": "DTaP Vaccine",
+    "name": "Difteria tosferina Tétanos (DPT)",
     "pai": "No",
     "appliance": [
       {
@@ -212,7 +250,7 @@
     ]
   },
   "5": {
-    "name": "Td Vaccine",
+    "name": "Toxoide tetánico y diftérico del adulto (TD)",
     "pai": "No",
     "appliance": [
       {
@@ -249,7 +287,7 @@
     ]
   },
   "6": {
-    "name": "Tdap Vaccine",
+    "name": "Tétanos Difteria-Tosferina Acelular (TdaP)",
     "pai": "No",
     "appliance": [
       {
@@ -314,7 +352,7 @@
     ]
   },
   "7": {
-    "name": "MMR Vaccine",
+    "name": "SRP (Sarampión - Rubela - paperas)",
     "pai": "No",
     "appliance": [
       {
@@ -386,7 +424,7 @@
     ]
   },
   "8": {
-    "name": "Varicella Vaccine",
+    "name": "Varicela (VAR)",
     "pai": "No",
     "appliance": [
       {
@@ -444,7 +482,7 @@
     ]
   },
   "9": {
-    "name": "Recombinant Zoster (Shingles) Vaccine",
+    "name": "Zoster recombinante (RZV)",
     "pai": "No",
     "appliance": [
       {
@@ -499,7 +537,7 @@
     ]
   },
   "10": {
-    "name": "HPV Vaccine",
+    "name": "Virus del papiloma humano (VPH)",
     "pai": "No",
     "appliance": [
       {
@@ -563,7 +601,7 @@
     ]
   },
   "11": {
-    "name": "Pneumococcal Conjugate Vaccine",
+    "name": "Neumococo Vacuna conjugada  (PCV7/PCV10/PCV13/PCV15/PCV20)",
     "pai": "No",
     "appliance": [
       {
@@ -631,7 +669,7 @@
     ]
   },
   "12": {
-    "name": "Pneumococcal Polysaccharide Vaccine (PPSV23)",
+    "name": "Neumococo Vacuna polisacárida (PPSV23)",
     "pai": "No",
     "appliance": [
       {
@@ -676,7 +714,7 @@
     "coadministration": []
   },
   "13": {
-    "name": "Hepatitis A Vaccine",
+    "name": "Hepatitis A (HepA)",
     "pai": "No",
     "appliance": [
       {
@@ -754,7 +792,7 @@
     ]
   },
   "14": {
-    "name": "Meningococcal ACWY Vaccine",
+    "name": "Meningococo A, C, W, Y (MenACWY)",
     "pai": "No",
     "appliance": [
       {
@@ -865,7 +903,7 @@
     ]
   },
   "15": {
-    "name": "Meningococcal B Vaccine",
+    "name": "Meningococo B - Trumenba",
     "pai": "No",
     "appliance": [
       {
@@ -915,7 +953,7 @@
     ]
   },
   "16": {
-    "name": "Polio Vaccine",
+    "name": "Polio",
     "pai": "No",
     "appliance": [
       {
